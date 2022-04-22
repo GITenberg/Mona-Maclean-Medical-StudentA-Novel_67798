@@ -1,5 +1,8 @@
 _repo: Mona-Maclean-Medical-StudentA-Novel_67798
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67798-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Travers, Graham
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/47770
     wikipedia: https://en.wikipedia.org/wiki/Margaret_Todd_(doctor)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67798#Mona-Maclean-Medical-StudentA-Novel
 gutenberg_issued: '2022-04-11'
 identifiers:
   gutenberg: '67798'
